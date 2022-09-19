@@ -10,6 +10,7 @@
 .col-sm-4{
     display: flex;
     width: 100%;
+    height: 180px;
     justify-content: space-between;
     align-items: center;
     background-color: rgba(243, 151, 108, 0.05);
@@ -735,9 +736,10 @@ p {
 }
 
 h2 {
-    font-size: 0px;
+    font-size: 40px;
     line-height: 1.4em;
     text-align: center;
+    color: rgba(0, 0, 0, 0.7);
 }
 
 h3 {
