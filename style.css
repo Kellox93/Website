@@ -46,7 +46,7 @@ i{font-size: 90px;}
     width: 20%;
 }
 
-
+.image-resize-mode{width: 60%;}
 
 
 body {
@@ -771,6 +771,7 @@ p {
     display: flex;
     justify-content: space-around;
     align-items: flex-start;
+    text-decoration: none;
     
 
 }
@@ -935,6 +936,8 @@ h4 {
     P{font-size: 20px;}
     .pimg {font-size: 20px};
     h3{font-size: 15px}
+    .image-resize-mode{width: 50%;}
+    .cta-hero {font-size: 15px;}
 }
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
@@ -1136,6 +1139,7 @@ h4 {
     .med-width-whitespace{height: 800px;}
 
     .serv{flex-direction: column; height: 250px;}
-    .TVL {
-        width: auto;
+    .TVL {width: auto;}
+    .image-resize-mode{width: 40%;}
+    .cta-hero {font-size: 10px;}
 }
