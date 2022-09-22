@@ -47,7 +47,9 @@ i{font-size: 90px;}
 }
 
 .image-resize-mode{width: 60%;}
+.contacteT{width: 90%;}
 
+form{width: 100%; font-size: 16px;}
 
 body {
     margin: 0;
@@ -715,6 +717,7 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: rgba(0, 0, 0, .7);
+    text-decoration: none;
 }
 
 .container {
@@ -936,7 +939,7 @@ h4 {
     P{font-size: 20px;}
     .pimg {font-size: 20px};
     h3{font-size: 15px}
-    .image-resize-mode{width: 50%;}
+    
     .cta-hero {font-size: 15px;}
 }
 
@@ -1140,6 +1143,6 @@ h4 {
 
     .serv{flex-direction: column; height: 250px;}
     .TVL {width: auto;}
-    .image-resize-mode{width: 40%;}
+    
     .cta-hero {font-size: 10px;}
 }
