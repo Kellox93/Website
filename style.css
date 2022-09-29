@@ -47,10 +47,12 @@ i{font-size: 90px;}
     font-size: 170%;
 }
 
-.image-resize-mode{width: 60%;}
+.image-resize-mode{width: 60%; border-radius: 50px; height: auto;}
 .contacteT{width: 90%;}
 
 form{width: 100%; font-size: 16px;}
+
+.com{width: 100%; height: auto;}
 
 body {
     margin: 0;
@@ -290,6 +292,7 @@ a:hover {
 .l-bloc p a {
     color: rgba(0, 0, 0, .6);
     text-decoration: none;
+    width: 30%;
 }
 
 .d-bloc .panel .a-btn:hover,
@@ -360,6 +363,7 @@ a:hover {
 
 .navbar-brand img {
     max-height: 200px;
+    height: auto;
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -827,6 +831,7 @@ h4 {
 .portfolio-thumb {
     margin-bottom: 24px;
     width: 100%;
+    height: auto;
 }
 
 .portfolio-row {
