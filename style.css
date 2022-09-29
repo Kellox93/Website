@@ -47,7 +47,7 @@ i{font-size: 90px;}
     font-size: 170%;
 }
 
-.image-resize-mode{width: 100px; border-radius: 50px; height: auto;}
+.image-resize-mode{width: 100%; border-radius: 50px; height: auto;}
 .contacteT{width: 90%;}
 
 form{width: 100%; font-size: 16px;}
